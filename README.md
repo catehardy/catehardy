@@ -7,4 +7,4 @@
 - 💬 Ask me about ... -->
 - 📫 How to reach me: catehardy@protonmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love rock climbing and indoor bouldering
+- ⚡ Fun fact: I love rock climbing and indoor bouldering (it's a workout with problem-solving built in!)
