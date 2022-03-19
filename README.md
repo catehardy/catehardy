@@ -2,7 +2,7 @@
 
 - 🔭 I have a lifelong love of coding that I'm channeling into a career change to web development
 - 🌱 Am currently learning JavaScript and React by working on an open source project
-- 📫 You can reach me at <a href="https://twitter.com/CoderCate" target="blank">Twitter</a> or <a href="https://www.linkedin.com/in/cate-hardy-9a9843222/" target="blank">LinkedIn</a>
+- 📫 You can connect with me at <a href="https://twitter.com/CoderCate" target="blank">Twitter</a> or <a href="https://www.linkedin.com/in/cate-hardy-9a9843222/" target="blank">LinkedIn</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love rock climbing and indoor bouldering (it's a workout with problem-solving built in!)
 <h2>Tech and tools I'm currently learning</h2>
