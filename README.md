@@ -2,10 +2,7 @@
 
 - 🔭 I have a lifelong love of coding and I'm working on a career change into web development
 - 🌱 I’m currently learning JavaScript
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: catehardy@protonmail.com
+- 📫 You can reach me at <a href="https://twitter.com/CoderCate" target="blank">Twitter</a> or <a href="https://www.linkedin.com/in/cate-hardy-9a9843222/" target="blank">LinkedIn</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love rock climbing and indoor bouldering (it's a workout with problem-solving built in!)
 <h2>Tech and tools I'm currently learning</h2>
