@@ -2,7 +2,7 @@
 <p>🖥 I'm a self-taught developer from Winchester, UK</p>
 <p>🌱 I'm currently building my JavaScript and React knowledge by working on an open source project</p>
 <p>👩‍💻 My lifelong love of coding has prompted a career change from retail management to web development</p>
-<p>📫 Come say hello at <a href="https://twitter.com/CoderCate" target="blank">Twitter</a> and <a href="https://www.linkedin.com/in/cate-hardy-9a9843222/" target="blank">LinkedIn</a></p>
+<p>📫 Come say hello at <a href="https://twitter.com/CoderCate" target="blank">Twitter</a> or <a href="https://www.linkedin.com/in/cate-hardy-9a9843222/" target="blank">LinkedIn</a>!</p>
 <p>😄 Pronouns: she/her</p>
 <p>🎲 I love board games, blogging, and rock climbing (it's a workout with problem-solving built in!)</p>
 <br>
