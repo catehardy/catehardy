@@ -1,4 +1,4 @@
-# Hi there, I'm Cate 👋
+<h1>Hey, I'm Cate 👋</h1>
 
 <p>🌱 I'm currently learning JavaScript and React by working on an open source project</p>
 <p>🔭 I have a lifelong love of coding that I'm channeling into a career change to web development</p>
