@@ -1,4 +1,4 @@
-<h1><a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width: 100%;" width="29px"></a> Hey, I'm Cate</h1>
+<h1><a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px"></a> Hey, I'm Cate</h1>
 <p>🖥 I'm a self-taught developer from Winchester, UK</p>
 <p>❤️ Passionate about front-end development and accessibility</p>
 <p>🌱 I'm currently building my JavaScript and React knowledge by working on an open source project</p>
