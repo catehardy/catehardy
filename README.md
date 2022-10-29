@@ -1,8 +1,8 @@
 <h1>Hey, I'm Cate 👋</h1>
 <p>🖥 I'm a self-taught developer from Winchester, UK</p>
 <p>❤️ Passionate about front-end development and accessibility</p>
-<p>🌱 I'm currently building my JavaScript knowledge by working on an <a href="https://github.com/catehardy/this.sky">open source weather app</a></p>
-<p>👩‍💻 My lifelong love of coding has prompted a career change from retail management to web development</p>
+<p>👩‍💻 My lifelong love of coding prompted a career change from retail management to web development</p>
+<p>🌱 I'm currently in batch at <a href="https://www.recurse.com/">The Recurse Center</a></p>
 <p>🎲 I also love board games, blogging, and rock climbing (it's a workout with problem-solving built in!)</p>
 <p>📫 Come say hello on <a href="https://twitter.com/CoderCate" target="blank">Twitter</a> or <a href="https://www.linkedin.com/in/catehardy/" target="blank">LinkedIn</a>!</p>
 <br>
