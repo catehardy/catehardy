@@ -2,7 +2,7 @@
 <p>🖥 I'm a self-taught developer from Winchester, UK</p>
 <p>👩‍💻 My lifelong love of coding prompted a career change from retail management to web development</p>
 <p>🌱 I recently finished a batch at <a href="https://www.recurse.com/">The Recurse Center</a></p>
-<p>❤️ Curious to learn more about UX and accessibility</p>
+<p>❤️ Passionate about UX and accessibility, so currently learning more on these topics</p>
 <p>🎲 I also love board games, blogging, and rock climbing (it's a workout with problem-solving built in!)</p>
 <p>📫 Come say hello on <a href="https://twitter.com/CoderCate" target="blank">Twitter</a> or <a href="https://www.linkedin.com/in/catehardy/" target="blank">LinkedIn</a>!</p>
 <br>
